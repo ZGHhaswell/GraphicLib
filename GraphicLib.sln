@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicLib", "GraphicLib\GraphicLib.csproj", "{18DC2631-A81F-4960-B500-6EE6BC4EE289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphlicCaller", "GraphlicCaller\GraphlicCaller.csproj", "{62AE8F11-D4F4-475A-840C-939EC686D5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AppConfig|Any CPU = AppConfig|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UnityConfig|Any CPU = UnityConfig|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.AppConfig|Any CPU.ActiveCfg = AppConfig|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.AppConfig|Any CPU.Build.0 = AppConfig|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.UnityConfig|Any CPU.ActiveCfg = UnityConfig|Any CPU
+		{18DC2631-A81F-4960-B500-6EE6BC4EE289}.UnityConfig|Any CPU.Build.0 = UnityConfig|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.AppConfig|Any CPU.ActiveCfg = AppConfig|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.AppConfig|Any CPU.Build.0 = AppConfig|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.UnityConfig|Any CPU.ActiveCfg = UnityConfig|Any CPU
+		{62AE8F11-D4F4-475A-840C-939EC686D5CF}.UnityConfig|Any CPU.Build.0 = UnityConfig|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
