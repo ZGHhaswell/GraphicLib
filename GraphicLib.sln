@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicLib", "GraphicLib\GraphicLib.csproj", "{18DC2631-A81F-4960-B500-6EE6BC4EE289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphlicCaller", "GraphlicCaller\GraphlicCaller.csproj", "{62AE8F11-D4F4-475A-840C-939EC686D5CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicCaller", "GraphicCaller\GraphicCaller.csproj", "{62AE8F11-D4F4-475A-840C-939EC686D5CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
